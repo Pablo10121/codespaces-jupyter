@@ -1,0 +1,15 @@
+{
+  "ig_secret_conversations": {
+    "armadillo_devices": [
+      {
+        "device_type": "Igd:Android-320.0.0.0.31,Debug",
+        "device_manufacturer": "HUAWEI",
+        "device_model": "JNY-LX2",
+        "device_os_version": "10",
+        "last_connected_ip": "190.123.11.0",
+        "last_active_time": 1708697922
+      }
+    ],
+    "calls": [  ]
+  }
+}
