@@ -1,3 +1,4 @@
 {
-    "opencodegraph.enable": false
+    "opencodegraph.enable": false,
+    "openctx.enable": false
 }
